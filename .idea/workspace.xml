@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb6786fc-45c9-4a53-9ecb-dbba4f09ee8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/Dricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/Fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/Snacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lexicon/fundamentals/oop/model/VendingMachineImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/model/VendingMachineImplTest.java" afterDir="false" />
+    <list default="true" id="cb6786fc-45c9-4a53-9ecb-dbba4f09ee8e" name="Changes" comment="1st version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/model/VendingMachineImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lexicon/fundamentals/oop/model/VendingMachineImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +50,8 @@
       <recent name="lexicon.fundamentals.oop.model" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.model.Main" />
+  <component name="RunManager" selected="JUnit.VendingMachineImplTest.change">
+    <configuration name="VendingMachineImplTest.change" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VendingMachine" />
       <extension name="coverage">
         <pattern>
@@ -71,13 +59,85 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.model" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.model.VendingMachineImplTest" />
+      <option name="METHOD_NAME" value="change" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineImplTest.endSession" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.model" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.model.VendingMachineImplTest" />
+      <option name="METHOD_NAME" value="endSession" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineImplTest.getDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.model" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.model.VendingMachineImplTest" />
+      <option name="METHOD_NAME" value="getDescription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineImplTest.getProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.model" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.model.VendingMachineImplTest" />
+      <option name="METHOD_NAME" value="getProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineImplTest.request" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VendingMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lexicon.fundamentals.oop.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lexicon.fundamentals.oop.model" />
+      <option name="MAIN_CLASS_NAME" value="lexicon.fundamentals.oop.model.VendingMachineImplTest" />
+      <option name="METHOD_NAME" value="request" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.VendingMachineImplTest.change" />
+        <item itemvalue="JUnit.VendingMachineImplTest.getProducts" />
+        <item itemvalue="JUnit.VendingMachineImplTest.getDescription" />
+        <item itemvalue="JUnit.VendingMachineImplTest.endSession" />
+        <item itemvalue="JUnit.VendingMachineImplTest.request" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +150,13 @@
       <option name="presentableId" value="Default" />
       <updated>1657524329934</updated>
     </task>
+    <task id="LOCAL−00001" summary="1st version">
+      <created>1657543982734</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1657543982734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st version" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st version" />
   </component>
 </project>
